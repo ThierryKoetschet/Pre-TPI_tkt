@@ -1,0 +1,17 @@
+tpivd.ch
+Consulter tous le documents pour les candidats
+Utiliser le canevas sur le site
+
+Développement mobile (frameworks) :
+
+WebView
+-------
+Phone Gap -> Cordova (Ionic)
+
+Framework JS
+------------
+ReactNative (Facebook)
+NativeScript (Google)
+
+Flutter
+VS ?
