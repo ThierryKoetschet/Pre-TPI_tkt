@@ -15,3 +15,6 @@ NativeScript (Google)
 
 Flutter
 VS ?
+
+Pour la présentation, peut-être faire exprès d'oublier d'expliquer certains concepts que l'on connaît bien pour 
+que les experts posent la question lors de la présentation.
