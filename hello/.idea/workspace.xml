@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef7c21d-33fe-4e13-a4c1-7eb82d0396b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../planification_pre-TPI_tkt.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/../planification_pre-TPI_tkt.xlsm" afterDir="false" />
-    </list>
+    <list default="true" id="5ef7c21d-33fe-4e13-a4c1-7eb82d0396b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +25,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/thierry.koetschet/Documents/GitHub/Pre-TPI_tkt/hello/hello",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
