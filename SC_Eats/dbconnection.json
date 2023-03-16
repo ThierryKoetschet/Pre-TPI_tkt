@@ -1,0 +1,12 @@
+//https://www.infoq.com/articles/typescript-mysql/
+
+{
+  "type": "mariadb",
+  "host": "localhost",
+  "port": 3306,
+  "username": "admin_pre-TPI",
+  "password": "Pa$$w0rd",
+  "database": "pre-tpi",
+  "synchronize": true,
+  "logging": false
+}

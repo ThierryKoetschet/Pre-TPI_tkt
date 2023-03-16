@@ -2,7 +2,12 @@
     <ActionBar title="SC EATS" />
 
     <StackLayout height="100%">
-        <ListView height="100%" separatorColor="transparent" items="{{ restaurants }}" itemTap="{{ onFlickTap }}">
+        <ListView
+            height="100%"
+            separatorColor="transparent"
+            items="{{ restaurants }}"
+            itemTap="{{ onRestaurantTap }}"
+        >
             <ListView.itemTemplate>
                 <GridLayout
                     height="280"
@@ -20,7 +25,7 @@
                         fontWeight="700"
                         class="text-primary"
                         fontSize="18"
-                        text="{{ title }}"
+                        text="{{ name }}"
                     />
                     <Label
                         row="2"
@@ -28,7 +33,7 @@
                         class="text-secondary"
                         fontSize="14"
                         textWrap="true"
-                        text="{{ description }}"
+                        text="{{ category }}"
                     />
                 </GridLayout>
             </ListView.itemTemplate>
